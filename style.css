@@ -1,5 +1,10 @@
 h1 {
     color: blue;
+    font-family: Arial;
+}
+
+ul {    
+    font-family: Arial;
 }
 
 .hide {
